@@ -3,5 +3,6 @@ I've already done the medium logic puzzles:
 - blackjack.
 
 Please write here which puzzles you've already solved, so I can choose what to work on in the second task:
--
--
+- makeChocolate
+- blackjack
+yes, really
